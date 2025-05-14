@@ -40,3 +40,4 @@ vi)Sequence Diagram
 ![image](https://github.com/user-attachments/assets/e2201e7b-6852-465b-94a0-218cfb2a4c90)
 
 # RESULT:
+Thus, the UML diagrams for a Railway Management System has been designed successfully.
